@@ -1,1 +1,1 @@
-My Note
+My Own C++ Learning Note & Practice 
